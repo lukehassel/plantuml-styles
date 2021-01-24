@@ -4,10 +4,6 @@
 !define COLOR_BORDER #18191C
 !define COLOR_ARROW #18191C
 
-!$ACCENT = "880000"
-!$ACCENTDARK = "330000"
-skinparam stereotypeCBackgroundColor $ACCENT
-
 !define FONT_SANS IBM Plex Sans
 !define FONT_MONO IBM Plex Mono
 
