@@ -14,6 +14,14 @@ skinparam linetype ortho
 
 set namespaceSeparator ::
 
+!procedure arrow_style()
+  arrowColor #18191C
+  arrowFontName Verdana
+  arrowFontColor #18191C
+  arrowFontSize 11
+!endprocedure
+
+
 skinparam {
     DPI 200
     Shadowing false
