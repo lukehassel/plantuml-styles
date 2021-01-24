@@ -45,11 +45,13 @@ skinparam package {
 }
  
 skinparam interface {
+  arrow_style()
   backgroundColor COLOR_BACKGROUND
   borderColor COLOR_BORDER
 }
 
 skinparam component {
+  arrow_style()
   BorderColor COLOR_BORDER
   BackgroundColor COLOR_BACKGROUND
   ArrowColor COLOR_ARROW
